@@ -54,7 +54,6 @@ Analizando vectores de ataque, evasión de sandboxes y persistencia en sistemas 
   <img src="https://github-readme-stats.vercel.app/api?username=Enric-xX&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="400" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enric-xX&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top Languages" />
 </p>
-
 ---
 
 > **Warning:** Todo el código y la información en este perfil tienen fines estrictamente educativos y de investigación. No me hago responsable de un mal uso de los mismos.
