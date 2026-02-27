@@ -57,22 +57,9 @@ Analizando vectores de ataque, evasión de sandboxes y persistencia en sistemas 
 
 ---
 
-## 🎮 Fuera de Servicio (Hobby)
-Cuando no estoy analizando código, me puedes encontrar en el servidor de **Counter-Strike 2**. Manteniendo el KDA alto tanto en el lab como en el juego. 14-0-0.
-
-<p align="left">
-  <img src="https://img.shields.io/badge/CS2-F7931E?style=for-the-badge&logo=counter-strike&logoColor=white" alt="CS2" />
-</p>
+> **Warning:** Todo el código y la información en este perfil tienen fines estrictamente educativos y de investigación. No me hago responsable de un mal uso de los mismos.
 
 ---
-
-## ⚡ Quick Logic Check
-```batch
-@echo off
-if "%status%" == "hacking" (
-    echo Accessing System...
-    timeout /t 2 >nul
-    echo Payload Deployed.
-) else (
-    echo Monitoring network...
-)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Enric-xX&color=red&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
