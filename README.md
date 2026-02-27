@@ -1,4 +1,4 @@
-# 👨‍💻 System.root @Enric-xX 
+# 👨‍💻Enric-xX 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge&logo=github" alt="Status" />
