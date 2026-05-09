@@ -26,10 +26,5 @@ Aprendiendo programación de forma autodidacta y explorando nuevas tecnologías.
 
 ---
 
-### 📈 Estadísticas
-![Estadísticas de Enric-xX](https://github-readme-stats.vercel.app/api?username=Enric-xX&show_icons=true&theme=radical&hide_border=true)
-
----
-
 > [!NOTE]  
 > Tengo 13 años. Todo lo que ves aquí es parte de mi proceso de aprendizaje. ¡Gracias por pasarte por mi perfil!
