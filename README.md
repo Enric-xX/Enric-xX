@@ -1,29 +1,35 @@
 # 👨‍💻 Enric-xX
 
-### 🚀 Junior Developer & CS2 Player
-Aprendiendo y experimentando con código para crear herramientas útiles y optimizar mi experiencia de juego. 
+### 🚀 Junior Developer & Gamer
+Aprendiendo programación de forma autodidacta y explorando nuevas tecnologías.
 
 ---
 
-### 🛠️ Lo que estoy aprendiendo y usando:
-* **Lenguajes:** Aprendiendo **C++**, **JavaScript** y **Batch**. Dominando la estructura de **HTML & CSS**.
-* **Automatización:** Desarrollando scripts avanzados con **AutoHotkey v2** (como mi actual proyecto de Bhop).
-* **Entorno de trabajo:** * 💻 **VS Code** para scripts rápidos y web.
-    * 🛠️ **Visual Studio Community** para proyectos más pesados y C++.
+### 💻 Mi Stack & Herramientas
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch%20Script-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+
+**IDEs que utilizo:**
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
-### 🎮 Gaming & Hobbies
-* 🔫 Jugador activo de **CS2**.
-* ⌨️ Me encanta la automatización de procesos: si algo se puede hacer con un script, no lo hago a mano.
+### 🎮 Sobre mí
+* 🔫 Jugador de **CS2**.
+* 🇪🇸 Hablo Español.
+* 🎯 Enfocado en aprender lógica de programación y desarrollo de herramientas.
 
 ---
 
-### 📈 Mis Proyectos
-* **Bhop Script (v2):** Mi versión optimizada con ejecutable independiente y logo personalizado.
-* **CoreAI / CoreDev:** Mis antiguos experimentos de optimización que sigo puliendo.
+### 📈 Estadísticas
+![Estadísticas de Enric-xX](https://github-readme-stats.vercel.app/api?username=Enric-xX&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
 > [!NOTE]  
-> Tengo 13 años y estoy aquí para aprender. Si ves algo en mi código que se pueda mejorar, ¡toda ayuda es bienvenida!
+> Tengo 13 años. Todo lo que ves aquí es parte de mi proceso de aprendizaje. ¡Gracias por pasarte por mi perfil!
