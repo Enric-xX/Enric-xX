@@ -1,6 +1,7 @@
 # 👨‍💻 Enric-xX
 
-### 🚀 Junior Developer & Bug Bounty Hunter
+### 🚀 Brief Description
+
 Aprendiendo programación de forma autodidacta y explorando nuevas tecnologías. Uso IA para crear herramientas útiles de ciberseguridad.
 
 ---
