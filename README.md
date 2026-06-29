@@ -1,7 +1,7 @@
 # 👨‍💻 Enric-xX
 
-### 🚀 Junior Developer & Gamer
-Aprendiendo programación de forma autodidacta y explorando nuevas tecnologías.
+### 🚀 Junior Developer & Bug Bounty Hunter
+Aprendiendo programación de forma autodidacta y explorando nuevas tecnologías. Uso IA para crear herramientas útiles de ciberseguridad.
 
 ---
 
@@ -20,10 +20,18 @@ Aprendiendo programación de forma autodidacta y explorando nuevas tecnologías.
 
 ---
 
+### 🛡️ Proyectos Destacados
+* 🏢 **Server-1** - Servidor vulnerable para bug bounty
+* 🔍 **Network-Scanner** - Escáner de red local
+* 🚀 **CoreAI** - Optimizador de Windows
+
+---
+
 ### 🎮 Sobre mí
 * 🔫 Jugador de **CS2**.
 * 🇪🇸 Hablo Español.
-* 🎯 Enfocado en aprender lógica de programación y desarrollo de herramientas.
+* 🎯 Enfocado en ciberseguridad y bug bounty.
+* 🤖 Uso IA para crear herramientas útiles.
 
 ---
 
