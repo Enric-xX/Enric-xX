@@ -22,7 +22,7 @@ Aprendiendo programación de forma autodidacta y explorando nuevas tecnologías.
 ---
 
 ### 🛡️ Proyectos Destacados
-* 🏢 **Server-1** - Servidor vulnerable para bug bounty
+* 🏢 **Server-1** - Servidor vulnerable para practicar
 * 🔍 **Network-Scanner** - Escáner de red local
 * 🚀 **CoreAI** - Optimizador de Windows
 
