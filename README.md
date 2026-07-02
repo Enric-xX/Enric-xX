@@ -37,4 +37,4 @@ Aprendiendo programación de forma autodidacta y explorando nuevas tecnologías.
 ---
 
 > [!NOTE]  
-> Tengo 13 años. Todo lo que ves aquí es parte de mi proceso de aprendizaje. ¡Gracias por pasarte por mi perfil!
+>Este es mi perfil de [TryHackMe](https://tryhackme.com/p/3nric) ¡Gracias por pasarte por mi perfil!
