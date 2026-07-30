@@ -23,7 +23,7 @@ Aprendiendo programación de forma autodidacta y explorando nuevas tecnologías.
 * 🏢 **Server-1** - Servidor vulnerable para practicar
 * 🔍 **Python** - Herramientas de ciberseguridad en python
 * 🚀 **CoreAI** - Optimizador de Windows
-
+* 🤖 **FuzzingLocalBot** - Herramienta de fuzzing local
 ---
 
 ### 🎮 Sobre mí
