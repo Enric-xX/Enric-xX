@@ -20,11 +20,11 @@ Aprendiendo programación de forma autodidacta y explorando nuevas tecnologías.
 ---
 
 ### 🛡️ Proyectos Destacados
+* 🤖 **FuzzingLocalBot** - Herramienta de fuzzing local.
 * 🏢 **Server-1** - Servidor vulnerable para practicar hacking.
 * 🏢 **Server-2** - Servidor vulnerable accesible mediante user-agent para practicar hacking.
 * 🔍 **Python Tools** - Herramientas de ciberseguridad en python.
 * 🚀 **CoreAI** - Optimizador de Windows.
-* 🤖 **FuzzingLocalBot** - Herramienta de fuzzing local.
 ---
 
 ### 🎮 Sobre mí
