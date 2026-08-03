@@ -13,7 +13,8 @@ Aprendiendo programación de forma autodidacta y explorando nuevas tecnologías.
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-**IDEs que utilizo:**
+### 💾 IDEs que utilizo:
+
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Notepad](https://img.shields.io/badge/Notepad-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
