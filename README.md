@@ -21,11 +21,12 @@ Aprendiendo programación de forma autodidacta y explorando nuevas tecnologías.
 ---
 
 ### 🛡️ Proyectos Destacados
-* 🤖 **FuzzingLocalBot** - Herramienta de fuzzing local.
-* 🏢 **Server-1** - Servidor vulnerable para practicar hacking.
-* 🏢 **Server-2** - Servidor vulnerable accesible mediante user-agent para practicar hacking.
-* 🔍 **Python Tools** - Herramientas de ciberseguridad en python.
-* 🚀 **CoreAI** - Optimizador de Windows.
+* 🤖 **[FuzzingLocalBot](https://github.com/Enric-xX/FuzzingLocalBot)** - Herramienta de fuzzing local.
+* 🏢 **[Server-1](https://github.com/Enric-xX/Server-1)** - Servidor vulnerable para practicar hacking.
+* 🏢 **[Server-2](https://github.com/Enric-xX/Server-2)** - Servidor vulnerable para practicar hacking.
+* 🏢 **[Server-3](https://github.com/Enric-xX/Server-3)** - Servidor vulnerable para practicar hacking.
+* 🔍 **[Python Tools](https://github.com/Enric-xX/PythonTools)** - Herramientas de ciberseguridad en python.
+* 🚀 **[CoreAI](https://github.com/Enric-xX/PythonTools)** - Optimizador de Windows.
 ---
 
 ### 🎮 Sobre mí
